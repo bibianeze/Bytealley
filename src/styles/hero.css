@@ -1,0 +1,12 @@
+/* .gradient-bg{
+    background-image: url(../assets/herogradient.png);
+    background-size: contain;
+    background-position: top right;
+} */
+ .herobtn{
+    background-color:  #6D5DD3;
+;
+ }
+ .heropara{
+    font-style: italic;
+ }
